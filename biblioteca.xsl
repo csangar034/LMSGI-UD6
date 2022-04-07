@@ -8,7 +8,7 @@
             <body>
                 <h3>Libros:</h3>
                 <table border="1">
-                    <tr bgcolor="#CCFFFF">
+                    <tr bgcolor="lightgrey">
                         <th style="text-align:left">Título</th>
                         <th style="text-align:left">Autor</th>
                         <th style="text-align:left">Año</th>

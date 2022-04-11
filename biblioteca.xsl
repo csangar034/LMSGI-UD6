@@ -9,7 +9,7 @@
                 <h3>Libros:</h3>
                 <table border="1">
                     <tr bgcolor="#CCFFFF">
-                        <th style="text-align:left">Título</th>
+                        <th style="text-align:left">Titulo</th>
                         <th style="text-align:left">Autor</th>
                         <th style="text-align:left">Año</th>
                         <th style="text-align:left">Editorial</th>

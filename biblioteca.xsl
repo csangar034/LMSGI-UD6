@@ -7,6 +7,7 @@
             </head>
             <body>
                 <h3>Libros:</h3>
+                <p>Cristina Sánchez García</p>
                 <table border="1">
                     <tr bgcolor="#CCFFFF">
                         <th style="text-align:left">Titulo</th>
